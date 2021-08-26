@@ -3,4 +3,18 @@ body{
     color: darkblue;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: xx-large;
+    margin: 0;
+    padding: 0;
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid rgb(0, 0, 0);
+    border-width: 20px;
+    margin: 0 auto;
+}
+#container h1{
+    color: rgb(207, 0, 0);
 }
